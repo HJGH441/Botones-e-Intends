@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Botones e Intends</string>
+    <string name="tu_claificiacion_es">Tu claificiacion es:</string>
+    <string name="enviar">Enviar</string>
+    <string name="volver">volver</string>
+    <string name="tu_calificacion_es">Tu Calificacion es</string>
+</resources>
